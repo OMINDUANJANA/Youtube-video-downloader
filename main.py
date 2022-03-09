@@ -1,4 +1,4 @@
-print("Welcome to NeuralNine YouTube Downloader and Converter v0.2 Alpha")
+print("Welcome to NeuralNine YouTube Downloader and Converter v1.2 Black Alpha")
 print("Loading...")
 
 import pytube
