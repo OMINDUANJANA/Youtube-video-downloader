@@ -1,4 +1,8 @@
 import pytube
+import telebot
+
+
+bot = telebot.TeleBot("5170739237:AAEZ5oKFb_PQmdHP4oPAl0OXr0ko-_6lGMM")
 
 def download_video(url, resolution):
     itag = choose_resolution(resolution)
